@@ -1,8 +1,19 @@
 # Unofficial DrawIo Library for Salesforce
 
-This library is a collection of DrawIo shapes for Salesforce. It is  based on the [Salesforce Diagramming Framework](https://architect.salesforce.com/diagrams)
+This library is a collection of DrawIo shapes for Salesforce. It is based on the [Salesforce Diagramming Framework](https://architect.salesforce.com/diagrams)
 
+## Features
 
+### Color Palette
+
+The library contains the [Salesforce color palette](https://www.lightningdesignsystem.com/design-tokens/#category-color). You can use the colors in your diagrams by selecting the shape and then clicking on the color in the color palette.
+![Color Palette](.assets/colorPalette.png)
+
+## Predefined Styles
+
+The library contains predefined styles for the shapes. You can use them by selecting the shape and then clicking on the style in the style palette. The styles are based on Salesforce [Design Tokens](https://www.lightningdesignsystem.com/design-tokens/#category-color).
+
+![Style Palette](.assets/stylePalette.png)
 
 ## Setup
 
