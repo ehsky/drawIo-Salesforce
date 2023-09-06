@@ -28,6 +28,14 @@ The library contains predefined styles for the shapes. You can use them by selec
 
 ## Setup
 
+### Draw.io Online
+
 Copy the raw content of the [configuration.json](/configuration.json) file and open your Draw.Io application. Then got to `Extras > Configuration...` and paste the content of the file into the text field. Click on `Apply` and you are done.
 
 ![Navigation menu](.assets/navigationMenuConfiguration.png)
+
+### Draw.io Desktop
+
+Due to [CSP limitations with the desktop version of Draw.io](https://github.com/jgraph/drawio-desktop/issues/235), you need download all library files from the folder `shapes` and import them manually. To do so, open your Draw.Io application and go to `File > Open Library...`. Then select all files you downloaded.
+
+To get the color schema you need to copy the raw content of the [configurationDesktop.json](/configurationDesktop.json) file and open your Draw.Io application. Then got to `Extras > Configuration...` and paste the content of the file into the text field. Click on `Apply` and you are done.
