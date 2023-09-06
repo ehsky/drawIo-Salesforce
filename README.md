@@ -1,8 +1,19 @@
-# Unofficial DrawIo Library for Salesforce
+# Unofficial draw.io ibrary for Salesforce
 
 This library is a collection of DrawIo shapes for Salesforce. It is based on the [Salesforce Diagramming Framework](https://architect.salesforce.com/diagrams)
 
 ## Features
+
+### Icon Library
+
+The library contains icons and logos for Salesforce products. You can use them in your diagrams by selecting the shape and then clicking on the icon in the icon library. The library contains the following categories:
+
+- Industry Icons
+- Platform Icons
+- Product Icons
+- Product Logos
+
+![Icon Library](.assets/salesforceIconLibraryExample.gif)
 
 ### Color Palette
 
