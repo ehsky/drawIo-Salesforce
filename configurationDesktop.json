@@ -1,4 +1,12 @@
 {
+  "defaultVertexStyle": {
+    "strokeColor": "#514F4D",
+    "strokeWidth": "2"
+  },
+  "defaultEdgeStyle": {
+    "strokeWidth": "2",
+    "strokeColor": "#514F4D"
+  },
   "defaultColorSchemes": [
     [
       { "fill": "#FFFFFF", "stroke": "#514F4D" },
