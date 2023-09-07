@@ -22,6 +22,12 @@
             },
             {
               "title": {
+                "main": "Cards"
+              },
+              "url": "https://raw.githubusercontent.com/ehsky/drawIo-Salesforce/main/shapes/Cards.xml"
+            },
+            {
+              "title": {
                 "main": "Platform Icons"
               },
               "url": "https://raw.githubusercontent.com/ehsky/drawIo-Salesforce/main/shapes/PlatformIcons.xml"

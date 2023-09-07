@@ -12,8 +12,14 @@ The library contains icons and logos for Salesforce products. You can use them i
 - Platform Icons
 - Product Icons
 - Product Logos
+- Data Model Notation
+- Card Library
 
 ![Icon Library](.assets/salesforceIconLibraryExample.gif)
+
+![Card Library](.assets/cardLibrary.png)
+
+![Data Model Notation example](.assets/dataModelExample.png)
 
 ### Color Palette
 
