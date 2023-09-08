@@ -1,4 +1,4 @@
-# Unofficial draw.io ibrary for Salesforce
+# Unofficial draw.io library for Salesforce
 
 This library is a collection of DrawIo shapes for Salesforce. It is based on the [Salesforce Diagramming Framework](https://architect.salesforce.com/diagrams)
 
