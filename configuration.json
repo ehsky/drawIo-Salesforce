@@ -16,6 +16,12 @@
           "libs": [
             {
               "title": {
+                "main": "Document Headers"
+              },
+              "url": "https://raw.githubusercontent.com/ehsky/drawIo-Salesforce/main/shapes/DocumentHeaders.xml"
+            },
+            {
+              "title": {
                 "main": "Data Model Notation"
               },
               "url": "https://raw.githubusercontent.com/ehsky/drawIo-Salesforce/main/shapes/DataModelNotation.xml"
