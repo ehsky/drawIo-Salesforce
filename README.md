@@ -4,7 +4,7 @@
 >
 > This library still provides some features not available natively, including **Document Types (SLDS)**, the **Salesforce Color Palette**, and **Predefined Styles** based on Salesforce Design Tokens. However, I believe these alone may not provide enough value to justify maintaining this library. If I don't hear otherwise, I may archive this repository.
 >
-> I'd love your feedback — see [Issue #1](link) if you have thoughts on what you use or what should be contributed upstream to draw.io.
+> I'd love your feedback — see [Issue #1](https://github.com/ehsky/drawIo-Salesforce/issues/1) if you have thoughts on what you use or what should be contributed upstream to draw.io.
 
 This library is a collection of DrawIo shapes for Salesforce. It is based on the [Salesforce Diagramming Framework](https://architect.salesforce.com/diagrams)
 
