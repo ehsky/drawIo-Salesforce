@@ -1,4 +1,10 @@
-# Unofficial draw.io ibrary for Salesforce
+# Unofficial draw.io library for Salesforce
+
+> **Note:** This library was first published in September 2023. Shortly after, draw.io added a native Salesforce shape library with a similar set of shapes — including icons, cards, headers, and relationship connectors. For most use cases, you can now use draw.io's built-in Salesforce shapes directly via **More Shapes → Software → Salesforce**.
+>
+> This library still provides some features not available natively, including **Document Types (SLDS)**, the **Salesforce Color Palette**, and **Predefined Styles** based on Salesforce Design Tokens. However, I believe these alone may not provide enough value to justify maintaining this library. If I don't hear otherwise, I may archive this repository.
+>
+> I'd love your feedback — see [Issue #1](link) if you have thoughts on what you use or what should be contributed upstream to draw.io.
 
 This library is a collection of DrawIo shapes for Salesforce. It is based on the [Salesforce Diagramming Framework](https://architect.salesforce.com/diagrams)
 
